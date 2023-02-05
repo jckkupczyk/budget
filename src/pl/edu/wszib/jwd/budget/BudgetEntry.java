@@ -20,6 +20,11 @@
 //        -- drop table budget.BudgetEtries
 //
 //        select * from budget.BudgetEntries
+//        delete from budget.BudgetEntries
+//
+//        --insert into budget.BudgetEntries(EntryName, Amount) values ('test', 0)
+//
+//        select sum(amount) from budget.BudgetEntries
 
 
 
